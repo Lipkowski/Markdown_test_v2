@@ -15,9 +15,11 @@ What this paragraph shows is that no metter how much i would try o extend that l
 <!-- Example of bold -->
 This is **bold** text  
 This is also __bold__ text
-<!-- Example of italic  -->
-This is _italic_ / _kursywa_
 
+<!-- Example of italic  -->
+This is _italic_ / _kursywy_
+
+<!-- Example of text striketought  -->
 This ~~is not text~~ that i want to show.
 <!-- Example of headers -->
 
