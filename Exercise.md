@@ -4,19 +4,21 @@ My exercise in Markdown
 <!-- Here comes the table of content -->
 
 <!-- Example of paragraph of text with line break -->
-Fal nie ma fal,   
-nie ma fal,  
-nie ma fal, nie ma fal, NIE. 
 
-Pięknie  
-Rozmawia się całkiem nieźle.
+This is example of text with line break.  
+This is the break.
+
+This is secound sentence on this excerise (from another paragraph).
 
 <!-- Example of another paragraph -->
-
+What this paragraph shows is that no metter how much i would try o extend that line the Markdown will keep text all in line "14".
 <!-- Example of bold -->
-
+This is **bold** text  
+This is also __bold__ text
 <!-- Example of italic  -->
+This is _italic_ / _kursywa_
 
+This ~~is not text~~ that i want to show.
 <!-- Example of headers -->
 
 <!-- Example of external link -->
