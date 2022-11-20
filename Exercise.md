@@ -1,16 +1,15 @@
 <!-- Example of title -->
-My exercise in Markdown
-=========
+My exercise in Markdown<!-- omit in toc -->
+===
 <!-- Here comes the table of content -->
 
-<!-- Example of paragraph of text with line break -->
 Table of content
 
-- [My exercise in Markdown](#my-exercise-in-markdown)
 - [Links and images](#links-and-images)
   - [Links](#links)
   - [Images](#images)
 
+<!-- Example of paragraph of text with line break -->
 
 This is example of text with line break.  
 This is the break.
