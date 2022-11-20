@@ -33,7 +33,7 @@ This ~~is not text~~ that i want to show.
 
 <!-- Example of link to another file -->
 
-[and than go back to where we started](Empty.md)
+[and then go back to where we started](Empty.md)
 
 Both links to external and internal files are added as follows: square bracket is text and than rounded bracket is the link/file
 
