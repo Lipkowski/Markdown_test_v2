@@ -4,6 +4,12 @@ My exercise in Markdown
 <!-- Here comes the table of content -->
 
 <!-- Example of paragraph of text with line break -->
+Table of content
+
+- [Links and images](#links-and-images)
+  - [Links](#links)
+  - [Images](#images)
+
 
 This is example of text with line break.  
 This is the break.
@@ -64,5 +70,10 @@ It's important to add exclamation point before bracket so the image shows in tex
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+
+1st Column | 2nd Column | 3rd Column
+---------- | ---------- | ----------
+Dogs       | Cats       | Chickens
+4 paws     | 4 paws     | 2 paws (legs?)
 
 <!-- Paragraph after table -->
