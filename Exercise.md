@@ -75,5 +75,5 @@ It's important to add exclamation point before bracket so the image shows in tex
 ---------- | ---------- | ----------
 Dogs       | Cats       | Chickens
 4 paws     | 4 paws     | 2 paws (legs?)
-
+all | meat only | all
 <!-- Paragraph after table -->
