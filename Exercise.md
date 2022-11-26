@@ -80,6 +80,11 @@ Well... I did it already but it is good to exercise!
 <!-- Example of code highlighting -->
 
 <!-- Example of quote -->
+As my grandfather used to say:
+
+> Any fool can get cold
+and
+> Don't scare, don't scare, or you'll sh.. yourself
 
 <!-- Example of bullet list -->
 # List
@@ -88,7 +93,7 @@ Well... I did it already but it is good to exercise!
 This time I share the things I am proud of:
 * my cat
 * my will to change for better
-* my positive energy and sense of humor :laugh:
+* my positive energy and sense of humor :satisfied:
 
 Not much, huh?
 
