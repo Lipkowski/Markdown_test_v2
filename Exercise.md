@@ -6,7 +6,7 @@ My exercise in Markdown<!-- omit in toc -->
 Table of content
 
 - [Line break](#line-break)
-- [Types of text edit](#types-of-text-edit)
+- [Types of text editing](#types-of-text-editing)
   - [Bold](#bold)
   - [Italic](#italic)
   - [Text striketought](#text-striketought)
@@ -14,10 +14,15 @@ Table of content
   - [Links](#links)
   - [Images](#images)
   - [Images with hover text](#images-with-hover-text)
+- [Equation](#equation)
+- [Codes](#codes)
+  - [Inline code](#inline-code)
+  - [Block of code](#block-of-code)
+  - [Code highlighting](#code-highlighting)
 - [Quote](#quote)
 - [List](#list)
   - [Bullet list](#bullet-list)
-  - [Number list](#number-list)
+  - [Numbered list](#numbered-list)
 - [Table](#table)
 
 <!-- Example of paragraph of text with line break -->
@@ -29,7 +34,7 @@ This is second sentence on this excerise (from another paragraph).
 
 <!-- Example of another paragraph -->
 What this paragraph shows is that no metter how much i would try o extend/break that line the Markdown will keep text all in line "14".
-# Types of text edit
+# Types of text editing
 ## Bold
 <!-- Example of bold -->
 This is **bold** text  
@@ -72,13 +77,34 @@ It's important to add exclamation point before bracket so the image shows in tex
 
 Well... I did it already but it is good to exercise!
 
-![Image with hover text](Images/here-we-go.jpeg "This is how i actually look like when I can stand what a person is saying :)")
+![Image with hover text](Images/here-we-go.jpeg "This is how i actually look like when I can't stand what a person is saying :)")
 
 <!-- Example of equation or inline code -->
+# Equation
+
+$$ c= a^2 + b^2 $$
+$$ a = 2 $$
+$$ b= 5a $$
+
+# Codes
+
+## Inline code
+Inline `code` works, when you do `back-ticks` around it.
 
 <!-- Example of a block of code -->
+## Block of code
+What triggers the block of code is ``` both at the beggigning and the end of the block.
 
+This is the example: 
+``` 
+whatever I choose to write here will be treated as a new block of code
+```
 <!-- Example of code highlighting -->
+## Code highlighting
+```javascript
+var s = "Javascript syntax highlighting";
+alert(s);
+```
 
 <!-- Example of quote -->
 # Quote
@@ -98,9 +124,9 @@ This time I share the things I am proud of:
 Not much, huh?
 
 <!-- Example of numbered list -->
-## Number list
+## Numbered list
 What did I learn so far?
-1. SPACES - if you miss them, so will the action you want to trigger
+1. SPACES - if you miss them, so will the action you want to trigger :rage1:
 2. I have tendency to get hungry as I learn
 3. We got to the number 3 so I think this proofs enought :smile:
 
