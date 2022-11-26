@@ -14,10 +14,11 @@ Table of content
   - [Links](#links)
   - [Images](#images)
   - [Images with hover text](#images-with-hover-text)
+- [Quote](#quote)
 - [List](#list)
   - [Bullet list](#bullet-list)
   - [Number list](#number-list)
-  - [Table](#table)
+- [Table](#table)
 
 <!-- Example of paragraph of text with line break -->
 # Line break
@@ -80,11 +81,10 @@ Well... I did it already but it is good to exercise!
 <!-- Example of code highlighting -->
 
 <!-- Example of quote -->
+# Quote
 As my grandfather used to say:
 
-> Any fool can get cold
-and
-> Don't scare, don't scare, or you'll sh.. yourself
+> Any fool can get cold :bowtie:
 
 <!-- Example of bullet list -->
 # List
@@ -107,7 +107,7 @@ What did I learn so far?
 Leave at least one empty line so Markdown knows this does not belong to the number list
 
 <!-- Example of table -->
-## Table
+# Table
 | 1st Column | 2nd Column | 3rd Column     |
 | ---------- | ---------- | -------------- |
 | Dogs       | Cats       | Chickens       |
