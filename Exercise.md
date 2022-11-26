@@ -129,7 +129,7 @@ Not much, huh?
 ## Numbered list
 What did I learn so far?
 1. SPACES - if you miss them, so will the action you want to trigger :rage1:
-2. I have tendency to get hungry as I learn
+2. They more you learn, the hungrier you are. :hamburger:
 3. We got to the number 3 so I think this proofs enought :smile:
 
 Leave at least one empty line so Markdown knows this does not belong to the number list
