@@ -17,6 +17,7 @@ Table of content
 - [List](#list)
   - [Bullet list](#bullet-list)
   - [Number list](#number-list)
+  - [Table](#table)
 
 <!-- Example of paragraph of text with line break -->
 # Line break
@@ -69,6 +70,7 @@ It's important to add exclamation point before bracket so the image shows in tex
 <!-- Example of an image with hover text -->
 
 Well... I did it already but it is good to exercise!
+
 ![Image with hover text](Images/here-we-go.jpeg "This is how i actually look like when I can stand what a person is saying :)")
 
 <!-- Example of equation or inline code -->
@@ -78,9 +80,17 @@ Well... I did it already but it is good to exercise!
 <!-- Example of code highlighting -->
 
 <!-- Example of quote -->
-# List
+
 <!-- Example of bullet list -->
+# List
 ## Bullet list
+
+This time I share the things I am proud of:
+* my cat
+* my will to change for better
+* my positive energy and sense of humor :laugh:
+
+Not much, huh?
 
 <!-- Example of numbered list -->
 ## Number list
@@ -92,7 +102,7 @@ What did I learn so far?
 Leave at least one empty line so Markdown knows this does not belong to the number list
 
 <!-- Example of table -->
-
+## Table
 | 1st Column | 2nd Column | 3rd Column     |
 | ---------- | ---------- | -------------- |
 | Dogs       | Cats       | Chickens       |
