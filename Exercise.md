@@ -5,12 +5,21 @@ My exercise in Markdown<!-- omit in toc -->
 
 Table of content
 
+- [Line break](#line-break)
+- [Types of text edit](#types-of-text-edit)
+  - [Bold](#bold)
+  - [Italic](#italic)
+  - [Text striketought](#text-striketought)
 - [Links and images](#links-and-images)
   - [Links](#links)
   - [Images](#images)
+  - [Images with hover text](#images-with-hover-text)
+- [List](#list)
+  - [Bullet list](#bullet-list)
+  - [Number list](#number-list)
 
 <!-- Example of paragraph of text with line break -->
-
+# Line break
 This is example of text with line break.  
 This is the break.
 
@@ -18,13 +27,15 @@ This is second sentence on this excerise (from another paragraph).
 
 <!-- Example of another paragraph -->
 What this paragraph shows is that no metter how much i would try o extend/break that line the Markdown will keep text all in line "14".
+# Types of text edit
+## Bold
 <!-- Example of bold -->
 This is **bold** text  
 This is also __bold__ text
-
+## Italic
 <!-- Example of italic  -->
 This is _italic_ / _kursywy_
-
+## Text striketought
 <!-- Example of text striketought  -->
 This ~~is not text~~ that i want to show.
 
@@ -54,8 +65,11 @@ It's important to add exclamation point before bracket so the image shows in tex
 <!-- Example of an image from internet/external links -->
 
 ![Dogs are cute](https://picsum.photos/id/237/536/354)
-
+## Images with hover text
 <!-- Example of an image with hover text -->
+
+Well... I did it already but it is good to exercise!
+![Image with hover text](Images/here-we-go.jpeg "This is how i actually look like when I can stand what a person is saying :)")
 
 <!-- Example of equation or inline code -->
 
@@ -64,10 +78,18 @@ It's important to add exclamation point before bracket so the image shows in tex
 <!-- Example of code highlighting -->
 
 <!-- Example of quote -->
-
+# List
 <!-- Example of bullet list -->
+## Bullet list
 
 <!-- Example of numbered list -->
+## Number list
+What did I learn so far?
+1. SPACES - if you miss them, so will the action you want to trigger
+2. I have tendency to get hungry as I learn
+3. We got to the number 3 so I think this proofs enought :smile:
+
+Leave at least one empty line so Markdown knows this does not belong to the number list
 
 <!-- Example of table -->
 
@@ -77,5 +99,5 @@ It's important to add exclamation point before bracket so the image shows in tex
 | 4 paws     | 4 paws     | 2 paws (legs?) |
 | all        | meat only  | all            |
 
-Leave at least one empty line so Markdown knows this does not belong to table
 <!-- Paragraph after table -->
+Leave at least one empty line so Markdown knows this does not belong to the table
