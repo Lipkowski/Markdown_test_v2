@@ -84,7 +84,7 @@ Well... I did it already but it is good to exercise!
 
 $$ c= a^2 + b^2 $$
 $$ a = 2 $$
-$$ b= 5a $$
+$$ b^2 = 5a $$
 
 # Codes
 
