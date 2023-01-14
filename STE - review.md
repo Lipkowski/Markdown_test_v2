@@ -1,9 +1,8 @@
 
-Machine translation is everywhere: you get it for free on Facebook, Word, other Microsoft services and possibly most known Google Translate. If you use MT services there are some that work possibly best for your language: for example, Baidu in China, DeepL in Europe, or Yandex in Russia.
+Machine translation is everywhere: you get it for free on Facebook, Word, other Microsoft services and possibly, most known - Google Translate. If you use MT services there are some that work possibly best for your language: Baidu in China, DeepL in Europe, or Yandex in Russia.
 
 
-
-You have certainly been impressed by how good MT can translate: you may easily get an output document that not only has all titles, images and footnotes perfectly in place, but also reads smoothly and makes a lot of sense.
+MT works really well: you may easily get an output document that has all titles, images and footnotes perfectly in place. It also reads smoothly and makes a lot of sense.
 
 …Or does it really?
 
