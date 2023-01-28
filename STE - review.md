@@ -2,15 +2,17 @@
 Machine translation is everywhere: you get it for free on Facebook, Word, other Microsoft services and possibly, most known - Google Translate. If you use MT services there are some that work possibly best for your language: Baidu in China, DeepL in Europe, or Yandex in Russia.
 
 
-MT works really well: you may easily get an output document that has all titles, images and footnotes perfectly in place. It also reads smoothly and makes a lot of sense.
+MT works really well: you may easily get an output document that has all titles, images and footnotes perfectly in place. Document also reads smoothly and makes a lot of sense.
 
 …Or does it really?
 
-Machine Translation AD 2022 can model language really well. For a source text written correctly and in fairly standard language, the MT output will very likely be fluent and understandable. The biggest risk, however, is that the sense and meaning can be lost: distorted, negated, or changed to something totally irrelevant. Or embarrassing.
+Machine Translation AD 2022 can model language really well. The MT output will very likely be fluent and understandable, for a source text written correctly and in fairly standard language.  The biggest risk, however, is that the sense and meaning can be lost. It can get distorted, negated, or changed to something totally irrelevant. It can also be embarrassing.
 
-The MT from German to English quoted above demonstrates that DeepL can use an idiom, but it cannot know that the whole text is non-translatable (needs to be localized or transcreated). Let’s have a look at more serious examples from legal domain Polish to English.
+The MT from German to English quoted above demonstrates that DeepL can use an idiom, but it cannot know that the whole text is non-translatable (needs to be localized or transcreated). Let’s have a look at more examples from legal domain Polish to English.
 
 Polish to English – distorted meaning
+
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 Source: Przeprowadzenie testu proporcjonalności naruszenia prawa własności przez sąd nie może zostać oderwane od prawidłowych ustaleń faktycznych dokonanych w rzetelnym postępowaniu, w którym strona może brać aktywny udział i korzystać ze wszystkich uprawnień procesowych wynikających z prawa do obrony.
 
 Machine translation: Conducting the proportionality test of a court’s infringement of a property right cannot be divorced from the correct findings of fact made in a fair proceeding in which a party can actively participate and exercise all procedural rights under the right of defence.
@@ -18,6 +20,7 @@ Machine translation: Conducting the proportionality test of a court’s infringe
 Source text is about the proportionality test conducted by the court, and the test pertains to some infringement of a property right.
 Translated text is about the proportionality test conducted due to a court’s infringement of a property right.
 Not the same thing! Would you immediately know that anything is wrong if you only had the machine translation available?
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 
 This is the worst case of MT errors:
 
