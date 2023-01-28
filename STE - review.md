@@ -1,14 +1,14 @@
 
-Machine translation is everywhere: you get it for free on Facebook, Word, other Microsoft services and possibly, most known - Google Translate. If you use MT services there are some that work possibly best for your language: Baidu in China, DeepL in Europe, or Yandex in Russia.
+Machine translation is everywhere: you get it for free on Facebook, Word, other Microsoft services, and possibly, most known - Google Translate. If you use MT services, some work best for your language: Baidu in China, DeepL in Europe, or Yandex in Russia.
 
 
-MT works really well: you may easily get an output document that has all titles, images and footnotes perfectly in place. Document also reads smoothly and makes a lot of sense.
+MT works well: you may easily get an output document with all titles, images, and footnotes perfectly in place. The document also reads smoothly and makes a lot of sense.
 
-…Or does it really?
+…Or does it?
 
-Machine Translation AD 2022 can model language really well. The MT output will very likely be fluent and understandable, for a source text written correctly and in fairly standard language.  The biggest risk, however, is that the sense and meaning can be lost. It can get distorted, negated, or changed to something totally irrelevant. It can also be embarrassing.
+Machine Translation AD 2022 can model language well. The MT output will likely be fluent and understandable for a source text written correctly and in fairly standard language. The biggest risk is that the recipient loses sense and meaning. Text can get distorted, negated, or changed to something irrelevant because of MT. It can also be embarrassing.
 
-The MT from German to English quoted above demonstrates that DeepL can use an idiom, but it cannot know that the whole text is non-translatable (needs to be localized or transcreated). Let’s have a look at more examples from legal domain Polish to English.
+The MT from German to English quoted above demonstrates that DeepL can use an idiom, but it cannot know that the whole text is non-translatable (needs to be localized or transcreated). Let’s look at more examples from the legal domain of Polish to English.
 
 Polish to English – distorted meaning
 
@@ -24,37 +24,42 @@ Not the same thing! Would you immediately know that anything is wrong if you onl
 
 This is the worst case of MT errors:
 
-the machine translated text makes sense,
-there is nothing suspicious, at least not at the first glance,
-however, the sense of the translation is not what’s meant in the source.
+* the machine-translated text makes sense;
+* there is nothing suspicious, at least not at first glance;
+* the sense of the translation is not what the source means.
+
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 Polish to English – wrong key term
 Source: Where relationship and respect are emphasized in personal education classes (as they are in Holland), the rate of unprotected sex in teens is low, the age of first intercourse is higher, and fewer teens report that their first sexual experience resulted from coercion.
 
 Machine translation: Tam, gdzie na lekcjach wychowania fizycznego kładzie się nacisk na relacje i szacunek (tak jak w Holandii), wskaźnik uprawiania seksu bez zabezpieczenia wśród nastolatków jest niski, wiek pierwszego stosunku wyższy, a mniejsza liczba nastolatków przyznaje, że ich pierwsze doświadczenie seksualne było wynikiem przymusu.
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 
-Source text is about personal education classes.
-Translated text is about physical education classes.
+The source text is about personal education classes.
+The translated text is about physical education classes.
 
-This is almost as bad as the previous case – almost, because it’s only one wrong term:
+This is almost as bad as the previous case – almost because it’s only one wrong term:
 
-the translated text makes sense,
-even without understanding any English, the Polish text can make you wonder how physical education might impact sex life of teens,
-but without reading the source, it’s hard to figure out what class was actually in question, so machine translation is hardly usable.
+The translated text makes sense, even without understanding any English, the Polish text can make you wonder how physical education might impact sex life of teens. Without reading the source, it’s hard to figure out what class was actually in question, so machine translation is hardly usable.
 Polish to English – just embarrassing
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 Source: Zakład Postępowania Administracyjnego i Sądowoadministracyjnego
 
 Machine Translation: Plant of Administrative and Administrative Judicial Procedure
+<!-- Przytoczone przykłady nie mogą zostac zmienione-->
 
 Source text is about a Department of Administrative and Judicial-Administrative Proceedings.
 Translated text made it into a plant.
 
-This mistake is rather obvious and easy to detect even without reading into English text, because – in a legal text – you expect a “department” rather than a “plant” (and Polish word “zakład” may mean either of them, depending on the context). However, such an omission can be very embarrassing if the machine-translated text reaches its audience without a human touch.
+This mistake is rather obvious and easy to detect even without reading into English text. In a legal text, you expect a “department” rather than a “plant” (and Polish word “zakład” may mean either of them, depending on the context). However, such an omission can be very embarrassing if the machine-translated text reaches its audience without a human touch.
 
-Now let’s rephrase the subject of this article: What are the risks of using machine translation, if no one verifies its correctness against the source text?
+Now let’s rephrase the subject of this article: What are the risks of using machine translation if no one verifies its correctness against the source text?
 
-The biggest risk is misleading your target audience. If proper understanding of the text is critical in the sense of human life, health, political decisions or large financial gain/loss, then the meaning must be conveyed correctly. The more mission-critical the text, the more necessary becomes the professional validation of MT against the source text, before the translated reaches its target audience.
-The second big risk is a damage to your reputation. Whether machine-translated text has unintended obscene meaning, or involuntary joke caused by translating person/company name, or just speaks loud and clear “I am machine-translated and never verified” – same logic applies: the more important is the text to your profile, the more mandatory is to have it verified by a professional who has access to, and understanding of, the source text.
-And where can you use raw, unverified machine translation (rather) safely? For example in these areas:
+The biggest risk is misleading your target audience. If a proper understanding of the text is critical in the sense of human life, health, political decisions, or large financial gain/loss, then the meaning must stay the same. The more mission-critical the text, the more necessary becomes the professional validation of MT against the source text. This must happen before the translation reaches its target audience.
+The second big risk is damage to your reputation. Meaningful content should always be approved by profesional, who has access to, and understands the source text. If ,machine-translated text has unintended obscene meaning, or involuntary joke caused by translating person/company name, it should never be realeased without a check.
+
+
+You can use unverified machine translation (rather) safely, for example, in these areas:
 
 Non-critical content like chats, user comments to a webpage, low-value goods descriptions in online shops or press news with limited impact. In each of these use cases, before publishing raw MT, you need to assess the risk of misleading or offensive translation. (Does any client refrains from buying a nicely priced shirt online, even if the description is a bit off, like in the picture provided?)
-Gisting – getting an overall sense of content (e.g. patents, legal or audit documentation) to decide which parts should be translated or professionally post-edited, or what to translate first. In this use case, the risk is minimal, because raw MT is never to be published without a thorough human validation.
+Gisting – getting an overall sense of content (e.g., patents, legal or audit documentation) to decide which parts should be translated or professionally post-edited, or what to translate first. In this use case, the risk is minimal because raw MT is never to be published without thorough human validation.
