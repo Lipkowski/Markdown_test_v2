@@ -1,3 +1,4 @@
 My first page!
 
-[MT exercise](../STE_exercise.md)
+[MT](../STE_exercise.md)
+[Where I started](../Exercise.md)
